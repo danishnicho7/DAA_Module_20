@@ -16,7 +16,7 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 /*
 Program to implement Rat in a Maze.
 Developed by: Danish Nicho N
-Register Number: 2122220540030
+Register Number: 212222040030
 */
 ```
 ```
